@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Virtual Charles",
+    "description": "",
+    "home_page_url": "https://virtualcharles.com",
+    "feed_url": "https://virtualcharles.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Charles Palmer"
+    },
+    "items": [
+    ]
+}
